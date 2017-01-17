@@ -1,0 +1,15 @@
+body{
+
+font-family: kirvy;
+font-size: 22px;
+
+}
+
+@font-face{
+
+font-family: "kirvy";
+src: url('kirvy.eot') format('embedded-opentype'),
+url('Kirvy-Light.otf') format('opentype');
+
+}
+

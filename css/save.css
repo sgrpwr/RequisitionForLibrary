@@ -1,0 +1,29 @@
+@page 
+    {
+        size: auto;   /* auto is the initial value */
+        margin: 0mm;  /* this affects the margin in the printer settings */
+    }
+
+	
+
+
+div {
+    margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+	}
+	h3{
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+	}
+	
+	div.img {
+    margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+	}
